@@ -1,0 +1,17 @@
+Question: Solve -42*r + 27*c = -1167 and 130*r + 4*c = 372 for r.
+Answer: 4
+
+Question: Calculate -841880142.544 + 411127.
+Answer: -841469015.544
+
+Question: Let x(g) = 9*g + 1. Let q(c) = 2*c + 1. Let f(i) = 3*i - 39. Let w(j) = q(x(j)). Calculate f(w(a)).
+Answer: 54*a - 30
+
+Question: Let e(l) = l - 6. Is 2 a factor of both e(9) and 2?
+Answer: False
+
+Question: Let u(n) = -n**3 - n**2. Let e(c) = -2*c**3 + c. Let l(j) = -118*e(j) + 54*u(j). What is the derivative of l(a)?
+Answer: 546*a**2 - 108*a - 118
+
+Question: Three letters picked without replacement from qqqkkklkqkkk. Give prob of sequence qql.
+Answer: 1/110
